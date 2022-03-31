@@ -1,4 +1,4 @@
-### Assignment 4: Generative Text
+# Poet: Text Generator
 
 ![](IM_Assignent4_Screenshot.png)
 
